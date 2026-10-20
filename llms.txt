@@ -1,0 +1,17 @@
+# ShotInbox AI: Sort Screenshots support
+
+> Official support, help and privacy pages for ShotInbox AI: Sort Screenshots, an iOS app by Lumi Studio.
+
+- App Store: https://apps.apple.com/app/id6802166527
+- Platform: iOS
+- App Store category: Photo & Video
+- Developer: Lumi Studio
+
+## Pages
+
+- [Home](https://open.cait518.cc/shotinbox-support/)
+- [Help, FAQ and troubleshooting](https://open.cait518.cc/shotinbox-support/help.html)
+- [Support and contact](https://open.cait518.cc/shotinbox-support/support.html)
+- [Privacy policy](https://open.cait518.cc/shotinbox-support/privacy.html)
+
+<!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
