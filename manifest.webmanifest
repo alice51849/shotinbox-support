@@ -1,0 +1,26 @@
+{
+  "name": "ShotInbox AI: Sort Screenshots",
+  "short_name": "ShotInbox AI: Sort Screenshots",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/e3/be/32e3bea1-1cd3-6059-b531-c8e50f7788da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.alice51849.ShotInbox",
+      "url": "https://play.google.com/store/apps/details?id=com.alice51849.ShotInbox&referrer=utm_source%3Dsupport_site%26utm_medium%3Dpwa_banner%26utm_campaign%3Dshotinbox"
+    }
+  ],
+  "prefer_related_applications": true,
+  "x_generator": "ls-pwa/1"
+}
