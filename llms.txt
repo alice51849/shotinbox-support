@@ -14,4 +14,8 @@
 - [Support and contact](https://open.cait518.cc/shotinbox-support/support.html)
 - [Privacy policy](https://open.cait518.cc/shotinbox-support/privacy.html)
 
+<!-- sqe-blitz:start -->
+- [스크린샷 정리 앱: 다운로드 전에 묻는 질문 (한국어)](https://open.cait518.cc/shotinbox-support/screenshot-jeongni-app-qa.ko.html)
+<!-- sqe-blitz:end -->
+
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
